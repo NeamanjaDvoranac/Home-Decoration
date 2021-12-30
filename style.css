@@ -187,7 +187,7 @@ galery
     
 }
 .gallery .list article:nth-child(2) {
-    background-image: url(img/pexels-tamil-king-3214064.jpg);
+    background-image: url(IMG/pexels-tamil-king-3214064.jpg);
     background-position: center;
     background-size: cover;
     font-size: 1.5rem;
@@ -195,7 +195,7 @@ galery
 
 }
 .gallery .list article:nth-child(3) {
-    background-image: url(img/pexels-rachel-claire-8112897.jpg);
+    background-image: url(IMG/pexels-rachel-claire-8112897.jpg);
     background-position: center;
     background-size: cover;
     font-size: 1.5rem;
@@ -211,7 +211,7 @@ galery
 
 }
 .gallery .list article:nth-child(5) {
-    background-image:url(img/pexels-sharad-kachhi-3937174.jpg);
+    background-image:url(IMG/pexels-sharad-kachhi-3937174.jpg);
     background-position: center;
     background-size: cover;
     font-size: 1.5rem;
@@ -219,7 +219,7 @@ galery
 
 }
 .gallery .list article:nth-child(6) {
-    background-image: url(img/pexels-vecislavas-popa-3741317.jpg);
+    background-image: url(IMG/pexels-vecislavas-popa-3741317.jpg);
     background-position: center;
     background-size: cover;
     font-size: 1.5rem;
